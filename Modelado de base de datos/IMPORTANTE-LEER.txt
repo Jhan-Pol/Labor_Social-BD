@@ -1,0 +1,1 @@
+se hizo la base de datos desde la manera grafica por lo cual lo único codificado en sql fue el poblamiento de valores 
